@@ -148,6 +148,22 @@ q:after {
   content: "";
 }
 
+footer {
+  text-align: center;
+  font-size: 0.85rem;
+  color: #777;
+  margin: 2rem 0;
+}
+
+footer a {
+  color: #777;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
 .maia {
   border: 1px solid;
   -moz-border-radius: 4px;

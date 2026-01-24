@@ -168,6 +168,7 @@ q:after {
   border: 1px solid #f3eac2;
 }
 
+/* From css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/ */
 blockquote {
   background: #f9f9f9;
   border-left: 10px solid #ccc;
